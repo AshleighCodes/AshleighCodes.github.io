@@ -3,29 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello, and welcome 👋</title>
     <link rel="stylesheet" href="style.css">
+    <title>Ashleigh's Portfolio</title>
 </head>
 <body>
-    <header class="header-background">
-        <nav>
-            <ul>
+    <header>
+    <nav id="desktop-nav">
+        <div class="logo">Ashleigh</div>
+        <div>
+            <ul class="nav-links">
                 <li><a href="pages/about.html">About</a></li>
                 <li><a href="pages/project.html">Projects</a></li>
                 <li><a href="pages/contact.html">Contact</a></li>
             </ul>
-        </nav>
-        <div class="header-content">
-            <h1>Hi, my name is Ashleigh</h1>
-            <img src="./img/profile.jpeg" alt="Profile Photo of Ashleigh">
-            <p>Test text</p>
-            <p>Test text</p>
-            <p>Test text</p>
         </div>
+    </nav>
+    <nav id="hamburger-nav">
+        <div class="logo">Ashleigh</div>
+        <div class="hamburger-menu">
+            <div class="hamburger-icon" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="menu-links">
+                <li><a href="pages/about.html" onclick="toggleMenu()" >About</a></li>
+                <li><a href="pages/project.html" onclick="toggleMenu()">Projects</a></li>
+                <li><a href="pages/contact.html" onclick="toggleMenu()">Contact</a></li>
+            </div>
+        </div>
+    </nav>
+    <div class="header-content">
+        <h1>Hi, my name is Ashleigh</h1>
+        <img src="./img/profile.jpeg" alt="Profile Photo of Ashleigh">
+        <p>Test text</p>
+        <p>Test text</p>
+        <p>Test text</p>
+    </div>
     </header>
-    <main>
-        <!-- ADD SOME TEXT IN HERE -->
-    </main>
     <footer>
         <a href="https://www.linkedin.com/in/ashleighwilson-42/">
             <img class="socials-icon" src="./img/linkedin.png" alt="LinkedIn logo featuring the word 'LinkedIn' in a blue circle or as text" />
@@ -36,5 +51,6 @@
         </a>
         <p>Copyright © 2024 Ashleigh Wilson — All Rights</p>
     </footer>
+    <script src="script.js"></script>
 </body>
 </html>
