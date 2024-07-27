@@ -6,6 +6,13 @@
     padding: 0;
 }
 
+.circular-image {
+    width: 350px; /* Adjust the size as needed */
+    height: 350px; /* Adjust the size as needed */
+    border-radius: 50%;
+    object-fit: cover; /* Ensures the image covers the entire circular area */
+  }
+
 body {
     background-color: rgb(254, 250, 228);
     font-family: "Cormorant Garamond", serif;
