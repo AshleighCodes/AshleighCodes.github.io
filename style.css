@@ -250,3 +250,12 @@ footer {
     text-align: center;
     font-weight: 200;
 }
+
+/* ACTIVE LINKS */
+.nav-links .active,
+.menu-links .active {
+    color: grey;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+    text-decoration-color: rgb(181, 181, 181);
+}
