@@ -6,13 +6,6 @@
     padding: 0;
 }
 
-.circular-image {
-    width: 350px; /* Adjust the size as needed */
-    height: 350px; /* Adjust the size as needed */
-    border-radius: 50%;
-    object-fit: cover; /* Ensures the image covers the entire circular area */
-  }
-
 body {
     background-color: rgb(254, 250, 228);
     font-family: "Cormorant Garamond", serif;
@@ -162,4 +155,84 @@ a:hover {
     #hamburger-nav {
         display: flex;
     }
+}
+
+/* SECTIONS */
+
+section {
+    padding-top: 4vh;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
+}
+
+.section-container {
+    display: flex;
+}
+
+/* PROFILE SECTION */
+
+#profile {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    height: 80vh;
+}
+
+.section-pic-container {
+    display: flex;
+    height: 450px;
+    width: 450px;
+    margin: auto 0;
+}
+
+.section-text {
+    align-self: center;
+    text-align: center;
+}
+
+.section-text p {
+    font-weight: 800;
+}
+
+.title {
+    text-align: center;
+    font-size: 3.3rem;
+}
+
+.section-text-h1 {
+    font-weight: 400;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.section-text-h1a {
+    font-weight: 400;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.section-text-p2 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+#socials-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+
+  /* ICONS */
+
+.social-icon {
+    cursor: pointer;
+    height: 3rem;
+}
+
+footer {
+    text-align: center;
+    font-weight: 200;
 }
