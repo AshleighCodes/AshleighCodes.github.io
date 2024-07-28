@@ -43,7 +43,7 @@ nav {
 .nav-links {
     gap: 2rem;
     list-style: none;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
 a {
@@ -59,9 +59,13 @@ a:hover {
     text-decoration-color: rgb(181, 181, 181);
 }
 
+/* LOGO - ADD IN THE BELOW FOR HTML */
+
 .logo {
-    font-size: 2rem;
+    font-size: 2.3rem;
 }
+
+/* LOGO - ADD IN THE BELOW FOR HTML */
 
 .logo:hover {
     cursor: default;
@@ -200,12 +204,14 @@ section {
 .title {
     text-align: center;
     font-size: 3.3rem;
+    line-height: 1.6;
 }
 
 .section-text-h1 {
     font-weight: 400;
     font-size: 1.7rem;
     text-align: center;
+    line-height: 1.6;
 }
 
 .section-text-h1a {
@@ -232,7 +238,12 @@ section {
 
 .social-icon {
     cursor: pointer;
-    height: 3rem;
+    height: 3.2rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-icon:hover {
+    transform: scale(1.3);
 }
 
 footer {
