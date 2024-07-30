@@ -204,7 +204,7 @@ section {
 .title {
     text-align: center;
     font-size: 3.3rem;
-    line-height: 1.6;
+    line-height: 0.8;
 }
 
 .section-text-h1 {
@@ -305,4 +305,9 @@ footer {
     height: 400px;
     width: 400px;
     margin: auto 0;
+}
+
+.text-container {
+    font-size: 1.2rem;
+    line-height: 1.6;
 }
