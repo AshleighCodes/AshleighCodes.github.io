@@ -43,7 +43,7 @@ nav {
 .nav-links {
     gap: 2rem;
     list-style: none;
-    font-size: 1.8rem;
+    font-size: 2rem;
 }
 
 a {
@@ -62,7 +62,7 @@ a:hover {
 /* LOGO - ADD IN THE BELOW FOR HTML */
 
 .logo {
-    font-size: 2.3rem;
+    padding-top: 4vh;
 }
 
 /* LOGO - ADD IN THE BELOW FOR HTML */
@@ -166,7 +166,7 @@ a:hover {
 
 section {
     padding-top: 4vh;
-    height: 96vh;
+    height: 80vh;
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
@@ -287,7 +287,7 @@ footer {
 }
 
 .details-container {
-    padding: 1.5rem;
+    padding: 1.9rem;
     flex: 1;
     background: rgb(254, 250, 228);
     border-radius: 2rem;
