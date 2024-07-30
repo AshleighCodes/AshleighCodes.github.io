@@ -62,7 +62,7 @@ a:hover {
 /* LOGO - ADD IN THE BELOW FOR HTML */
 
 .logo {
-    padding-top: 4vh;
+        padding-top: 4vh;
 }
 
 /* LOGO - ADD IN THE BELOW FOR HTML */
@@ -294,6 +294,7 @@ footer {
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: black;
     text-align: center;
+    font-size: x-large;
 }
 
 .section-container {
