@@ -42,16 +42,16 @@
 ![Desktop - Projects](./img/Desktop_Projects.png)
 
 ####  Tablet - Homepage 
-![Tablet - Homepage - TO BE ADDED]()
+![Tablet - Homepage - TO BE ADDED](./img/Tablet_Home.png)
 
 ####  Tablet - About 
 ![Tablet - About - TO BE ADDED]()
 
 ####  Tablet - Projects 
-![Tablet - Projects - TO BE ADDED]()
+![Tablet - Projects - TO BE ADDED](./img/Tablet_Projects.png)
 
 ####  Mobile - Homepage 
-![Mobile - Homepage - TO BE ADDED]()
+![Mobile - Homepage - TO BE ADDED](./img/Mobile_Homepage.png)
 
 ####  Mobile - About 
 ![Mobile - About - TO BE ADDED]()
