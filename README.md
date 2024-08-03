@@ -34,3 +34,27 @@
 
 ####  Desktop - Homepage 
 ![Desktop - Homepage](./img/Desktop_Homepage.png)
+
+####  Desktop - About 
+![Desktop - About - TO BE ADDED]()
+
+####  Desktop - Projects 
+![Desktop - Projects](./img/Desktop_Projects.png)
+
+####  Tablet - Homepage 
+![Tablet - Homepage - TO BE ADDED]()
+
+####  Tablet - About 
+![Tablet - About - TO BE ADDED]()
+
+####  Tablet - Projects 
+![Tablet - Projects - TO BE ADDED]()
+
+####  Mobile - Homepage 
+![Mobile - Homepage - TO BE ADDED]()
+
+####  Mobile - About 
+![Mobile - About - TO BE ADDED]()
+
+####  Mobile - Projects 
+![Mobile - Projects - TO BE ADDED]()
