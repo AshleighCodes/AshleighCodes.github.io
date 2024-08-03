@@ -274,6 +274,12 @@ footer {
     justify-content: space-around;
 }
 
+.article-container:hover {
+    cursor: default;
+    transform: scale(1.05);
+    transition: all 1s ease;
+}
+
 article {
     display: flex;
     width: 10rem;
