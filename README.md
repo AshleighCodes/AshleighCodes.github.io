@@ -1,6 +1,6 @@
 #  Ashleigh Wilson - Portfolio Task
 ​
-[My portfolio site](link_to_your_site)
+[Click here to go to my deployed portfolio site 😊](https://ashleighcodes.github.io/)
 ​
 ## Project Requirements
 
@@ -9,7 +9,7 @@
 - [x] At least one profile picture
 - [x] Biography (at least 100 words)
 - [x] Functional Contact Form
-- [ ] "Projects" section
+- [x] "Projects" section
 - [x] Links to external sites, e.g. GitHub and LinkedIn.
 ​
 ### Technical
@@ -17,7 +17,7 @@
 - [x] At least 2 web pages.
 - [x] Version controlled with Git
 - [x] Deployed on GitHub pages.
-- [ ] Implements responsive design principles.
+- [x] Implements responsive design principles.
 - [x] Uses semantic HTML.
 
 ### Bonus (optional)
