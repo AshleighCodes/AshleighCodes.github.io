@@ -33,26 +33,26 @@
 > You can do this by saving the images in a folder in your repo, and including them in your readme document with the following Markdown code: 
 
 ####  Desktop - Homepage 
-![Desktop - Homepage](./img/Desktop_Homepage.png)
-![Desktop - Homepage](./img/Homepage%20record%20TEST.gif)
+![Desktop - Homepage](./readme-img/Desktop_Homepage.png)
+![Desktop - Homepage](./readme-img/Homepage%20record%20TEST.gif)
 
 ####  Desktop - About 
 ![Desktop - About - TO BE ADDED]()
 
 ####  Desktop - Projects 
-![Desktop - Projects](./img/Desktop_Projects.png)
+![Desktop - Projects](.)
 
 ####  Tablet - Homepage 
-![Tablet - Homepage - TO BE ADDED](./img/Tablet_Home.png)
+![Tablet - Homepage - TO BE ADDED](./readme-img/Tablet_Home.png)
 
 ####  Tablet - About 
 ![Tablet - About - TO BE ADDED]()
 
 ####  Tablet - Projects 
-![Tablet - Projects - TO BE ADDED](./img/Tablet_Projects.png)
+![Tablet - Projects - TO BE ADDED](./readme-img/Tablet_Projects.png)
 
 ####  Mobile - Homepage 
-![Mobile - Homepage - TO BE ADDED](./img/Mobile_Homepage.png)
+![Mobile - Homepage - TO BE ADDED](./readme-img/Mobile_Homepage.png)
 
 ####  Mobile - About 
 ![Mobile - About - TO BE ADDED]()
