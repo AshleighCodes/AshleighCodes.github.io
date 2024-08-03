@@ -34,6 +34,7 @@
 
 ####  Desktop - Homepage 
 ![Desktop - Homepage](./img/Desktop_Homepage.png)
+![Desktop - Homepage](./img/Homepage%20record%20TEST.gif)
 
 ####  Desktop - About 
 ![Desktop - About - TO BE ADDED]()
