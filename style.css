@@ -257,7 +257,7 @@ footer {
 .nav-links .active,
 .menu-links .active {
     color: #141807;
-    border: 2px solid white;
+    border: 2px solid whitesmoke;
     border-radius: 2rem;
     padding: 20px;
     background: white;
