@@ -48,13 +48,13 @@
 ![Tablet](./readme-img/TabletDemo.gif)
 
 ####  Tablet - Homepage 
-![Tablet - Homepage](./readme-img/Tablet_Home.png)
+![Tablet - Homepage](./readme-img/TabletNEW_Home.png)
 
 ####  Tablet - About 
 ![Tablet - About](./readme-img/Tablet_About.png)
 
 ####  Tablet - Projects 
-![Tablet - Projects](./readme-img/Tablet_Projects.png)
+![Tablet - Projects](./readme-img/TabletNEW_Projects.png)
 
 ####  Mobile - Live Demonstration (showcasing hover, onclick, active etc)
 ![Mobile](./readme-img/MobileDemo.gif)
