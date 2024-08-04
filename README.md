@@ -1,6 +1,6 @@
 #  Ashleigh Wilson - Portfolio Task
 ​
-[Click here to go to my deployed portfolio site 😊](https://ashleighcodes.github.io/)
+✨[Click here to go to my deployed portfolio site](https://ashleighcodes.github.io/)✨
 ​
 ## Project Requirements
 
