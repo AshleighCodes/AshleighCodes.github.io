@@ -60,11 +60,10 @@
 ![Mobile](./readme-img/MobileDemo.gif)
 
 ####  Mobile - Homepage 
-![Mobile - Homepage](./readme-img/Mobile_Homepage.png)
+![Mobile - Homepage](./readme-img/MobileNEW_Home.png)
 
 ####  Mobile - About 
-![Mobile - About](./readme-img/Mobile_About.png)
+![Mobile - About](./readme-img/MobileNEW_About.png)
 
 ####  Mobile - Projects 
-![Mobile - Projects (Photo 1)](./readme-img/Mobile_Projects1.png)
-![Mobile - Projects (Photo 2)](./readme-img/Mobile_Projects2.png)
+![Mobile - Projects (Photo 2)](./readme-img/MobileNEW_Projects.png)
