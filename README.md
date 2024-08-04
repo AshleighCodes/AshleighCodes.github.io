@@ -8,7 +8,7 @@
  Add a short paragraph describing the features below. What aesthetic and technical choices did you make? 
 - [x] At least one profile picture
 - [x] Biography (at least 100 words)
-- [x] Functional Contact Form
+- [x] Functional Contact Form (in the form of external sites, located on the homepage below the 'Welcome' text)
 - [x] "Projects" section
 - [x] Links to external sites, e.g. GitHub and LinkedIn.
 ​
@@ -32,30 +32,39 @@
 > 
 > You can do this by saving the images in a folder in your repo, and including them in your readme document with the following Markdown code: 
 
-####  Desktop - Homepage 
+####  Desktop - Live Demonstration (showcasing hover, onclick, active etc)
+![Desktop](./readme-img/DesktopDemo.gif)
+
+####  Desktop - Homepage Screenshot
 ![Desktop - Homepage](./readme-img/Desktop_Homepage.png)
-![Desktop - Homepage](./readme-img/Homepage%20record%20TEST.gif)
 
-####  Desktop - About 
-![Desktop - About - TO BE ADDED]()
+####  Desktop - About Screenshot
+![Desktop - About](./readme-img/Desktop_About.png)
 
-####  Desktop - Projects 
-![Desktop - Projects](.)
+####  Desktop - Projects Screenshot
+![Desktop - Projects](./readme-img/Desktop_Projects.png)
+
+####  Tablet - Live Demonstration (showcasing hover, onclick, active etc)
+![Tablet](./readme-img/TabletDemo.gif)
 
 ####  Tablet - Homepage 
-![Tablet - Homepage - TO BE ADDED](./readme-img/Tablet_Home.png)
+![Tablet - Homepage](./readme-img/Tablet_Home.png)
 
 ####  Tablet - About 
-![Tablet - About - TO BE ADDED]()
+![Tablet - About](./readme-img/Tablet_About.png)
 
 ####  Tablet - Projects 
-![Tablet - Projects - TO BE ADDED](./readme-img/Tablet_Projects.png)
+![Tablet - Projects](./readme-img/Tablet_Projects.png)
+
+####  Mobile - Live Demonstration (showcasing hover, onclick, active etc)
+![Mobile](./readme-img/MobileDemo.gif)
 
 ####  Mobile - Homepage 
-![Mobile - Homepage - TO BE ADDED](./readme-img/Mobile_Homepage.png)
+![Mobile - Homepage](./readme-img/Mobile_Homepage.png)
 
 ####  Mobile - About 
-![Mobile - About - TO BE ADDED]()
+![Mobile - About](./readme-img/Mobile_About.png)
 
 ####  Mobile - Projects 
-![Mobile - Projects - TO BE ADDED]()
+![Mobile - Projects (Photo 1)](./readme-img/Mobile_Projects1.png)
+![Mobile - Projects (Photo 2)](./readme-img/Mobile_Projects2.png)
