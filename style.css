@@ -338,7 +338,7 @@ article .icon {
 }
 
 .text-container {
-    font-size: 0.98rem;
+    font-size: 1.1rem; /* Slightly increased font size */
     line-height: 1.6;
     border: 3px solid black;
     background: white;
